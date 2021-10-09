@@ -25,5 +25,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='twitterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+User can stay logged in across restarts
+<img src='userLoggedInDemo.gif' title='Video Walkthrough' width='' alt='User LoggedIn Video Walkthrough' />
+
 # Twitter-App
 # Twitter-App
